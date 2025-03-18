@@ -28,6 +28,12 @@ As informações mais detalhadas sobre a apresentação estão abaixo.
        - Metas Futuras, para um escopo sem data prevista;
 3. Um envio por Grupo.
 
+## Modelo de Documento
+
+[Documento Escola de TI](https://docs.google.com/document/d/1niBhn3sMpfcMslw6W_sSEPbEVPltsaHs8dDi2PXcQnc/edit?usp=sharing);
+
+Lembrando que o documento deve ser entregue em PDF.
+
 ## Vídeo da Apresentação
 1. Duração: 5-10min;
 2. Montar uma apresentação com os seguintes tópicos, lembrando que tópicos adicionais agregam valor na apresentação:
