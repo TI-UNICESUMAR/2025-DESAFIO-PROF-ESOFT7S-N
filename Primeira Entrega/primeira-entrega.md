@@ -3,7 +3,7 @@ Essa apresentação é com relação a matéria Desafio Profissional.
 
 ## Resumo da Primeira Entrega
 
-- Data Entrega Forms: 05-08/Maio.
+- Data Entrega Forms: 05-09/Maio.
 
 Não será necessário uma apresentação em sala.
 O link do Forms ficará disponível do dia 05-08/Maio, qualquer entrega posterior a essa data será desconsiderada.
