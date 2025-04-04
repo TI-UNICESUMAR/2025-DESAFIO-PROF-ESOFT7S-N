@@ -1,6 +1,6 @@
 # Git CI/CD
 
-# Link para Entrega (03/04)
+# Link para Entrega
 [Forms Entrega](https://forms.gle/tuMXiSgYnzQkySdw6)
 
 ### CI: 
