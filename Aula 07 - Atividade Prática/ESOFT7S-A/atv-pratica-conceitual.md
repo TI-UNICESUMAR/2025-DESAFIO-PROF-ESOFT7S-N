@@ -1,4 +1,4 @@
-# Plano de Gerenciamento de Software: Problemática
+# Plano de Gerenciamento de Software: Problemática (Realização em aula: 09/05)
 
 ## Contexto
 
