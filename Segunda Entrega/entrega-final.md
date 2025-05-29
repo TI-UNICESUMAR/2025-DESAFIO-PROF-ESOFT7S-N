@@ -17,7 +17,7 @@ Cada grupo terá o tempo determinado para apresentar seu projeto, recomenda-se q
 
 Será necessário enviar o documento atualizado do projeto. Recomenda-se utilização do mesmo documento já entregue, porém atualizado. 
 
-Caso tenham dúvidas sobre o mesmo, podem utilizar de base os mesmos pontos de definição do **Documento da Primeira entrega**.
+Caso tenham dúvidas sobre o mesmo, podem utilizar de base os mesmos pontos de definição do [**Documento da Primeira entrega**](https://github.com/TI-UNICESUMAR/2025-DESAFIO-PROF-ESOFT7S-N/blob/main/Primeira%20Entrega/primeira-entrega.md#modelo-de-documento).
 
 ## Critérios de Avaliação
 
