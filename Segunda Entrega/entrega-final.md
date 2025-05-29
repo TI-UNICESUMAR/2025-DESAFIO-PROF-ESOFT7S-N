@@ -9,7 +9,9 @@
 ---
 ## Definições para Entrega
 
-### Tempo de Vídeo - 20min/Grupo
+### Vídeo
+
+- Tempo máximo: 20min/Grupo
 
 Cada grupo terá o tempo determinado para apresentar seu projeto, recomenda-se que a apresentação seja objetiva, focada nos critérios avaliativos.
 
