@@ -2,7 +2,7 @@
 
 ## Informações Gerais
 
-- **Datas Entrega:** 12 Junho  
+- **Datas Entrega:** 12 a 13 Junho
 - **Envio no Forms:** [Desafio Profissional - Entrega Final](https://forms.gle/NYoNN2HR8QYtsvcf7)
 - **Curso:** Engenharia de Software – 7º Semestre (Turmas A e B)
 
