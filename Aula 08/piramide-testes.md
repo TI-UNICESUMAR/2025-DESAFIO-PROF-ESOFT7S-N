@@ -4,9 +4,15 @@ A Pirâmide de Testes de Martin Fowler é uma **metáfora visual** que oferece u
 
 A ideia central é clara: a **maioria dos seus testes deve ser de baixo nível**, sendo rápidos e baratos, e a **quantidade de testes diminui** à medida que você se move para níveis mais altos na pirâmide, onde os testes se tornam mais lentos e caros.
 
+Referência: 
+- [Martin Fowler - The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+
 ---
 
 ## As Três Camadas da Pirâmide
+
+![image](https://github.com/user-attachments/assets/045c37f4-b233-4017-9a5e-7aa89d7bc9b9)
+
 
 A pirâmide original é composta por três camadas principais, organizadas de baixo para cima:
 
